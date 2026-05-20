@@ -49,3 +49,9 @@ MIT — see [`LICENSE`](LICENSE).
 ---
 
 *Author: Muhammad Hanzala Iqbal.*
+
+## Related projects
+
+- [`mimo-spatial-filtering`](https://github.com/MuhammadHanzalaIqbal/mimo-spatial-filtering) — perfect-CSI baseline study (SVD precoding, beam-domain analysis).
+- [`mimo-channel-denoising`](https://github.com/MuhammadHanzalaIqbal/mimo-channel-denoising) — improving the noisy LS estimate from this project with adaptive denoising.
+- [`nanoGPT-rf-rope-ablation`](https://github.com/MuhammadHanzalaIqbal/nanoGPT-rf-rope-ablation) — small-transformer architectural ablation (RoPE vs learned PE).
